@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 52f54f8012454f74eaa7e9926f989372
+timeCreated: 1549333968
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 138857
+  packageName: POLYGON Sci-Fi Space - Low Poly 3D Art by Synty
+  packageVersion: 1.13.0
+  assetPath: Assets/PolygonSciFiSpace/Materials/FX_Materials/FX_Black.mat
+  uploadId: 652848
